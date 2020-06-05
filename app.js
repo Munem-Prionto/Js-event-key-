@@ -3,6 +3,7 @@ let key = document.querySelector('#Key');
 let info = document.querySelector('.info');
 let charCode = document.querySelector('#keyCode');
 let which = document.querySelector('#which');
+let a = "prionto";
 
 
 
